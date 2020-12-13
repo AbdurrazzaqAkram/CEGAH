@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963547776407",
+    "project_id": "cegah-tim-1-20923",
+    "storage_bucket": "cegah-tim-1-20923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963547776407:android:c031a260f69490e0b830d2",
+        "android_client_info": {
+          "package_name": "com.example.cegah_tim1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963547776407-ale7l6t2jgf26ul5ek89j6d0l1eltip5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlAD3Le6EawtRn3ovQTWBCX6Yy_ab6t5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963547776407-ale7l6t2jgf26ul5ek89j6d0l1eltip5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
